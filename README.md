@@ -24,3 +24,5 @@ www.nrel.gov
 https://developer.holycross.com
 
 https://developers.blackhillsenergy.com.
+
+https://qa-developer-apim.aws.xcelenergy.com/apis
