@@ -6,6 +6,6 @@ As a group, we worked together to determine that we would like to review statist
 
 The main source we used for this analysis was the EIA (Environmental Impact Assessment). It contains large amounts of historical data for a variety of energy topics, including multiple energy sources and their usage throughout the United States by sector and states. 
 
-We filtered our requests to contain data from 2016-2021 by the individual energy source. We used the data we found to create splatter plots to show the evolution of use over time for each source. We included a regression line for each energy type to clearly show year over year change. Out of the five sources reviewed, solar, wind, and natural gas showed increased year over year 2016-2021 whereas coal and hydro use declined. 
+We filtered our requests to contain data from 2016-2021 by the individual energy source. We used the data we found to create splatter plots to show the evolution of use over time for each source. We included a regression line for each energy type to clearly show year over year change. Out of the five sources reviewed, solar, wind, and natural gas showed increases year over year 2016-2021 whereas coal and hydro use declined. 
 
 We also added two predictions for renewable and non-renewable energy sources. Based on the data we found, we predict that usage from three referenced renewable sources will continue to increase over the next 6 years while usage from the two referenced non-renewable sources will decline. 
