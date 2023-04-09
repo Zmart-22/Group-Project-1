@@ -9,3 +9,10 @@ The main source we used for this analysis was the EIA (Environmental Impact Asse
 We filtered our requests to contain data from 2016-2021 by the individual energy source. We used the data we found to create splatter plots to show the evolution of use over time for each source. We included a regression line for each energy type to clearly show year over year change. Out of the five sources reviewed, solar, wind, and natural gas showed increases year over year 2016-2021 whereas coal and hydro use declined. 
 
 We also added two predictions for renewable and non-renewable energy sources. Based on the data we found, we predict that usage from three referenced renewable sources will continue to increase over the next 6 years while usage from the two referenced non-renewable sources will decline. 
+
+For our findings in answering the questions that we had asked in our proposal, there were a couple main conclusions that we found with our data. First, over the course of the last 6 years, we have found that renewable energy on average has been continously increasing, as our nonrenewable energy has continued to decrease. 
+
+![image](https://user-images.githubusercontent.com/125075891/230796407-a8e5a33d-5e4e-461b-b3a8-a82f453ea951.png)
+
+Another major conclusion we found is that natural gas is still the mostly used energy source in Colorado, and until the last few years, that trend showed increases in usage. One of the factors that could have contriubuted in the spike of usage during the 2020 year could have been the pandemic in which the US has not seen the likes of. Please se
+
