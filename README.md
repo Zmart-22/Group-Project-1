@@ -22,6 +22,6 @@ Another major conclusion we found is that natural gas is still the mostly used e
 
 ![image](https://user-images.githubusercontent.com/125075891/230796432-6c110fae-28ae-483b-913b-55e78afeeccb.png)
 
-One of the conclusions we found that was unexpected was the use of Hydro decreasing over hte last 6 years. Because we saw that renewable energy has been increasing on average, we would not have expected the use of hyrdo to decrease like it has.
+One of the conclusions we found that was unexpected was the use of Hydro decreasing over the last 6 years. Because we saw that renewable energy has been increasing on average, we would not have expected the use of hyrdo to decrease like it has.
 
 ![image](https://user-images.githubusercontent.com/125075891/230796513-27e7eccd-2d3f-421a-9d88-a3a17112d990.png)
