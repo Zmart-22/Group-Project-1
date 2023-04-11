@@ -49,8 +49,11 @@ We then took our data and projected models of 6 more years into the future for t
 
 
 Visualizations of our Results
-![image](https://user-images.githubusercontent.com/125075891/230796513-27e7eccd-2d3f-421a-9d88-a3a17112d990.png)
+
 Hydroelectric use in Colorado has declined steadily on average over the last 6 years. It has the smallest percentage of use of the three larger renewable energy sources in Colorado.
+
+![image](https://user-images.githubusercontent.com/125075891/230796513-27e7eccd-2d3f-421a-9d88-a3a17112d990.png)
+
 
 In a review of the hydroelectric use month over month, the usage increases through the early months of the year with a drop off generally in mid to late summer. This may be based on the seasonality of the energy source in Colorado based on climate.
 
