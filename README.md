@@ -39,13 +39,13 @@ From here we then created csv files for each of the energy sources analyzed for 
 
 Analysis Process
 
-We used the data we cleaned and made regression models and used the r value to find if there were any correlation in our energy sources
+-We used the data we cleaned and made regression models and used the r value to find if there were any correlation in our energy sources
 
 
-We also used the month over month data to determine seasonal trending year by year for the renewable energy sources
+-We also used the month over month data to determine seasonal trending year by year for the renewable energy sources
 
 
-We then took our data and projected models of 6 more years into the future for the reviewed energy sources
+-We then took our data and projected models of 6 more years into the future for the reviewed energy sources
 
 
 Visualizations of our Results
@@ -57,17 +57,19 @@ Hydroelectric use in Colorado has declined steadily on average over the last 6 y
 
 In a review of the hydroelectric use month over month, the usage increases through the early months of the year with a drop off generally in mid to late summer. This may be based on the seasonality of the energy source in Colorado based on climate.
 
-Wind power is the largest renewable energy source in Colorado. Its use continues to grow year over year with no indication of waning.
+-Wind power is the largest renewable energy source in Colorado. Its use continues to grow year over year with no indication of waning.
 
-Wind has a usage pattern distinct from hydroelectric, as it sees a decline over the spring to summer months while usage increases in fall and winter. This may again be based on Colorado's changing seasons and weather patterns.
+-Wind has a usage pattern distinct from hydroelectric, as it sees a decline over the spring to summer months while usage increases in fall and winter. This may again be based on Colorado's changing seasons and weather patterns.
 
-Solar power has shown a steady increase over the last 6 years in Colorado. There was a large increase between 2020 and 2021 possibly indicating that this energy source will continue to grow as a viable source for years to come.
+-Solar power has shown a steady increase over the last 6 years in Colorado. There was a large increase between 2020 and 2021 possibly indicating that this energy source will continue to grow as a viable source for years to come.
 
-As with the other two reviewed renewable energy sources, solar usage is based on season trends month over month in Colorado. Solar usage increase through the spring and summer months with a sharp decline in the fall. Because solar has a smaller percentage of total renewable use, the variations month over month appear much larger than the other sources.
+-As with the other two reviewed renewable energy sources, solar usage is based on season trends month over month in Colorado. Solar usage increase through the spring and summer months with a sharp decline in the fall. Because solar has a smaller percentage of total renewable use, the variations month over month appear much larger than the other sources.
 
-As energy generated from coal continues to decrease over time, it seems natural gas continues increase.
+-As energy generated from coal continues to decrease over time, it seems natural gas continues increase.
 
-The decline of energy generated from coal is more drastic than the climb of energy produced from natural gas. 
+-The decline of energy generated from coal is more drastic than the climb of energy produced from natural gas. 
+
+
 
 We also added two predictions for renewable and non-renewable energy sources. Based on the data we found, we predict that usage from three referenced renewable sources will continue to increase over the next 6 years while usage from the two referenced non-renewable sources will decline. 
 
@@ -86,31 +88,34 @@ One of the conclusions we found that was unexpected was the use of Hydro decreas
 
 
 Summary and Conclusions
-We were able to find results for the questions we asked and we saw that renewable energy use has increased over the last 6 years on average while on average nonrenewable energy has decreased
 
-Though wind and solar usages increased, we did find that hydro usage has actually decreased over the last 6 years showing a continuous decrease
+-We were able to find results for the questions we asked and we saw that renewable energy use has increased over the last 6 years on average while on average nonrenewable energy has decreased
 
-Natural gas use still continues to be the energy source mostly used, though in 2021 and future projects showing that trend may change as renewable energy continues to gain traction
+-Though wind and solar usages increased, we did find that hydro usage has actually decreased over the last 6 years showing a continuous decrease
 
-Due to the recent increase in natural gas, our future modeling shows that renewable energy will account for a less percentage of total energy over the next 6 years. The increase in natural gas use is greater than the increase in renewable energy
+-Natural gas use still continues to be the energy source mostly used, though in 2021 and future projects showing that trend may change as renewable energy continues to gain traction
+
+-Due to the recent increase in natural gas, our future modeling shows that renewable energy will account for a less percentage of total energy over the next 6 years. The increase in natural gas use is greater than the increase in renewable energy
 
 
 Numerical Summary
-Most of our data was collected in different quantity types, so for transparency we wanted to show all of our data in gigawatt hours which to us was easier to read than Trillion BTU’s. This was a conversion of 1 Trillion BTU’s is equivalent to 293.0710701 gigawatt hours
 
-According to the numbers, we had a positive correlation between time and renewable energy of an r value of 0.94 while we had a negative correlation between time nonrenewable energy with an r value of -0.80
+-Most of our data was collected in different quantity types, so for transparency we wanted to show all of our data in gigawatt hours which to us was easier to read than Trillion BTU’s. This was a conversion of 1 Trillion BTU’s is equivalent to 293.0710701 gigawatt hours
 
-Comparing the mean between renewable and nonrenewable we see that over the course of the last 6 years, renewable consumption was sitting at 11,344.57 gigawatt hours while nonrenewable was around 40,902.04 gigawatt hours
+-According to the numbers, we had a positive correlation between time and renewable energy of an r value of 0.94 while we had a negative correlation between time nonrenewable energy with an r value of -0.80
 
-Next we compared the median between renewable and nonrenewable energy and we found that renewable energy was at 11,419 gigawatt hours and nonrenewable energy was 41,330 gigawatt hours
+-Comparing the mean between renewable and nonrenewable we see that over the course of the last 6 years, renewable consumption was sitting at 11,344.57 gigawatt hours while nonrenewable was around 40,902.04 gigawatt hours
 
-Comparing the top nonrenewable energy (natural gas) and the top renewable energy (wind), we see quite a difference in production. Natural gas over the last 6 years has a max production of 18,171 and gigawatt hours while wind only had a max of 15,125 gigawatt hours
+-Next we compared the median between renewable and nonrenewable energy and we found that renewable energy was at 11,419 gigawatt hours and nonrenewable energy was 41,330 gigawatt hours
+
+-Comparing the top nonrenewable energy (natural gas) and the top renewable energy (wind), we see quite a difference in production. Natural gas over the last 6 years has a max production of 18,171 and gigawatt hours while wind only had a max of 15,125 gigawatt hours
 
 
 
 What do our findings mean?
-Colorado as a whole is starting to increase renewable energy use more and in correlation nonrenewable energy has started to decrease
 
-Natural gas still reigns king, but there are possible trends to show this could be reversing
+-Colorado as a whole is starting to increase renewable energy use more and in correlation nonrenewable energy has started to decrease
 
-We have more questions we can start asking such as: What is the reason for a decrease in hydro use in Colorado? Do the trends of renewable and nonrenewable energy continue across the United States as it does in Colorado? What other factors may contribute to the rise and fall of certain energy uses?
+-Natural gas still reigns king, but there are possible trends to show this could be reversing
+
+-We have more questions we can start asking such as: What is the reason for a decrease in hydro use in Colorado? Do the trends of renewable and nonrenewable energy continue across the United States as it does in Colorado? What other factors may contribute to the rise and fall of certain energy uses?
