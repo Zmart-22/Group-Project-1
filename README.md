@@ -4,7 +4,7 @@ Pynergy
 
 As a group, we worked together to determine that we would like to review statistics associated with renewable energy resources within the state of Colorado. 
 
-The questions that we wanted to answer was first, in recent history how has renewable energy stacked up against nonrewnewable energy in Colorado? And secondly, based on the trends that we find, what is a projected outlook in the future for these energy sources during the same time frame moving forward? In our analysis, we used the previous 6 years and a projection of 6 years going forward.
+The questions that we wanted to answer was first, in recent history how has renewable energy stacked up against nonrenewable energy in Colorado? Secondly, based on the trends that we find, what is a projected outlook in the future for these energy sources during the same time frame moving forward? In our analysis, we used the previous 6 years and a projection of 6 years going forward.
 
 We found a variety of data sources and open APIs but found that many had data that was not applicable to our task or, in the case of Xcel Energy, the data was restricted and we were denied access. We were able to locate complete data to compare three main renewable energy sources: solar, wind, and hydroenergy. We compared these sources between themselves and additionally between major non-renewable sources: coal and natural gas. We found two major non-renewable sources in Colorado as the others sources are used minimally in the State. 
 
@@ -18,7 +18,7 @@ For our findings in answering the questions that we had asked in our proposal, t
 
 ![image](https://user-images.githubusercontent.com/125075891/230796407-a8e5a33d-5e4e-461b-b3a8-a82f453ea951.png).   ![image](https://user-images.githubusercontent.com/125075891/230796424-6bfdd41e-2c55-4826-9728-b787b8c2dac7.png)
 
-Another major conclusion we found is that natural gas is still the mostly used energy source in Colorado, and until the last few years, that trend showed increases in usage. One of the factors that could have contriubuted in the spike of usage during the 2020 year could have been the pandemic in which the US has not seen the likes of.
+Another major conclusion we found is that natural gas is still the mostly used energy source in Colorado, and until the last few years, that trend showed increases in usage. One of the factors that could have contributed in the spike of usage during the 2020 year could have been the pandemic in which the US has not seen the likes of.
 
 ![image](https://user-images.githubusercontent.com/125075891/230796432-6c110fae-28ae-483b-913b-55e78afeeccb.png)
 
