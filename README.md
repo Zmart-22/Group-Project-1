@@ -7,7 +7,8 @@ As a group, we worked together to determine that we would like to review statist
 The questions that we wanted to answer was first, in recent history how has renewable energy stacked up against nonrenewable energy in Colorado? Secondly, based on the trends that we find, what is a projected outlook in the future for these energy sources during the same time frame moving forward? In our analysis, we used the previous 6 years and a projection of 6 years going forward.
 
 
-Data Exploration
+
+Data Exploration:
 
 We found a variety of data sources and open APIs but found that many had data that was not applicable to our task or, in the case of Xcel Energy, the data was restricted and we were denied access. We were able to locate complete data to compare three main renewable energy sources: solar, wind, and hydroenergy. We compared these sources between themselves and additionally between major non-renewable sources: coal and natural gas. We found two major non-renewable sources in Colorado as the others sources are used minimally in the State. 
 
@@ -21,7 +22,7 @@ The main source we used for this analysis was the EIA (Environmental Impact Asse
 
 
 
-Data Cleanup
+Data Cleanup:
 
 We filtered our requests to contain data from 2016-2021 by the individual energy source. We used the data we found to create scatter plots to show the evolution of use over time for each source. We included a regression line for each energy type to clearly show year over year change. Out of the five sources reviewed, solar, wind, and natural gas showed increases year over year 2016-2021 whereas coal and hydro use declined. 
 
@@ -39,7 +40,9 @@ From here we then created csv files for each of the energy sources analyzed for 
 
 ![csvscreated](https://user-images.githubusercontent.com/125621763/231316406-6d51d7ed-d0bd-463e-9e27-f0fa276f71a1.jpg)
 
-Analysis Process
+
+
+Analysis Process:
 
 -We used the data we cleaned and made regression models and used the r value to find if there were any correlation in our energy sources
 
@@ -50,40 +53,46 @@ Analysis Process
 -We then took our data and projected models of 6 more years into the future for the reviewed energy sources
 
 
-Visualizations of our Results
+Visualizations of our Results:
 
 HYDROELECTRIC
 
-Hydroelectric use in Colorado has declined steadily on average over the last 6 years. It has the smallest percentage of use of the three larger renewable energy sources in Colorado.
-
 ![hyrdroyears](https://user-images.githubusercontent.com/125621763/231316545-c595d3da-fe00-48ce-8fef-1e18f903c0bb.jpg)
+
+Hydroelectric use in Colorado has declined steadily on average over the last 6 years. It has the smallest percentage of use of the three larger renewable energy sources in Colorado.
 
 
 ![hydromonths](https://user-images.githubusercontent.com/125621763/231316550-76e660d8-0dc9-471f-b3b7-97914558a6c3.jpg)
 
-
 In a review of the hydroelectric use month over month, the usage increases through the early months of the year with a drop off generally in mid to late summer. This may be based on the seasonality of the energy source in Colorado based on climate.
+
+
 
 WIND
 
--Wind power is the largest renewable energy source in Colorado. Its use continues to grow year over year with no indication of waning.
-
 ![windyears](https://user-images.githubusercontent.com/125621763/231316710-5dd9992c-c8c2-458c-8ab3-3e9c117245ae.png)
+
+-Wind power is the largest renewable energy source in Colorado. Its use continues to grow year over year with no indication of waning.
 
 
 ![windmonths](https://user-images.githubusercontent.com/125621763/231316600-cdef6be3-98ba-4644-a160-cbae14252c46.jpg)
 
 -Wind has a usage pattern distinct from hydroelectric, as it sees a decline over the spring to summer months while usage increases in fall and winter. This may again be based on Colorado's changing seasons and weather patterns.
 
+
+
 SOLAR 
+
+![solaryears](https://user-images.githubusercontent.com/125621763/231316797-1da22400-1919-4e45-895a-4ad6ef6089a5.jpg)
 
 -Solar power has shown a steady increase over the last 6 years in Colorado. There was a large increase between 2020 and 2021 possibly indicating that this energy source will continue to grow as a viable source for years to come.
 
-![solaryears](https://user-images.githubusercontent.com/125621763/231316797-1da22400-1919-4e45-895a-4ad6ef6089a5.jpg)
 
 ![solarmonths](https://user-images.githubusercontent.com/125621763/231316819-d4d5685e-2e10-4bab-a8b9-aec7dc2c3d39.jpg)
 
 -As with the other two reviewed renewable energy sources, solar usage is based on season trends month over month in Colorado. Solar usage increase through the spring and summer months with a sharp decline in the fall. Because solar has a smaller percentage of total renewable use, the variations month over month appear much larger than the other sources.
+
+
 
 NON RENEWABLE
 
@@ -96,6 +105,8 @@ NON RENEWABLE
 -As energy generated from coal continues to decrease over time, it seems natural gas continues increase.
 
 -The decline of energy generated from coal is more drastic than the climb of energy produced from natural gas. 
+
+
 
 LOOKING INTO THE FUTURE
 
@@ -119,8 +130,9 @@ Another major conclusion we found is that natural gas is still the mostly used e
 
 One of the conclusions we found that was unexpected was the use of Hydro decreasing over the last 6 years. Because we saw that renewable energy has been increasing on average, we would not have expected the use of hyrdo to decrease like it has.
 
-Summary and Conclusions
 
+
+Summary and Conclusions
 
 -We were able to find results for the questions we asked and we saw that renewable energy use has increased over the last 6 years on average while on average nonrenewable energy has decreased
 
