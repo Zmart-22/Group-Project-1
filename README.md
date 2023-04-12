@@ -68,7 +68,7 @@ WIND
 
 -Wind power is the largest renewable energy source in Colorado. Its use continues to grow year over year with no indication of waning.
 
-![windyears](https://user-images.githubusercontent.com/125621763/231316710-5dd9992c-c8c2-458c-8ab3-3e9c117245ae.png | width=100 height=100)
+![windyears](https://user-images.githubusercontent.com/125621763/231316710-5dd9992c-c8c2-458c-8ab3-3e9c117245ae.png)
 
 
 ![windmonths](https://user-images.githubusercontent.com/125621763/231316600-cdef6be3-98ba-4644-a160-cbae14252c46.jpg)
