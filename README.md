@@ -59,10 +59,9 @@ HYDROELECTRIC
 
 ![hyrdroyears](https://user-images.githubusercontent.com/125621763/231316545-c595d3da-fe00-48ce-8fef-1e18f903c0bb.jpg)
 
-Hydroelectric use in Colorado has declined steadily on average over the last 6 years. It has the smallest percentage of use of the three larger renewable energy sources in Colorado.
-
-
 ![hydromonths](https://user-images.githubusercontent.com/125621763/231316550-76e660d8-0dc9-471f-b3b7-97914558a6c3.jpg)
+
+Hydroelectric use in Colorado has declined steadily on average over the last 6 years. It has the smallest percentage of use of the three larger renewable energy sources in Colorado.
 
 In a review of the hydroelectric use month over month, the usage increases through the early months of the year with a drop off generally in mid to late summer. This may be based on the seasonality of the energy source in Colorado based on climate.
 
@@ -72,10 +71,9 @@ WIND
 
 ![windyears](https://user-images.githubusercontent.com/125621763/231316710-5dd9992c-c8c2-458c-8ab3-3e9c117245ae.png)
 
--Wind power is the largest renewable energy source in Colorado. Its use continues to grow year over year with no indication of waning.
-
-
 ![windmonths](https://user-images.githubusercontent.com/125621763/231316600-cdef6be3-98ba-4644-a160-cbae14252c46.jpg)
+
+-Wind power is the largest renewable energy source in Colorado. Its use continues to grow year over year with no indication of waning.
 
 -Wind has a usage pattern distinct from hydroelectric, as it sees a decline over the spring to summer months while usage increases in fall and winter. This may again be based on Colorado's changing seasons and weather patterns.
 
@@ -85,10 +83,9 @@ SOLAR
 
 ![solaryears](https://user-images.githubusercontent.com/125621763/231316797-1da22400-1919-4e45-895a-4ad6ef6089a5.jpg)
 
--Solar power has shown a steady increase over the last 6 years in Colorado. There was a large increase between 2020 and 2021 possibly indicating that this energy source will continue to grow as a viable source for years to come.
-
-
 ![solarmonths](https://user-images.githubusercontent.com/125621763/231316819-d4d5685e-2e10-4bab-a8b9-aec7dc2c3d39.jpg)
+
+-Solar power has shown a steady increase over the last 6 years in Colorado. There was a large increase between 2020 and 2021 possibly indicating that this energy source will continue to grow as a viable source for years to come.
 
 -As with the other two reviewed renewable energy sources, solar usage is based on season trends month over month in Colorado. Solar usage increase through the spring and summer months with a sharp decline in the fall. Because solar has a smaller percentage of total renewable use, the variations month over month appear much larger than the other sources.
 
@@ -97,7 +94,6 @@ SOLAR
 NON RENEWABLE
 
 ![coal](https://user-images.githubusercontent.com/125621763/231316882-d5c520d8-5fd5-42ec-90af-1dffaadcf335.jpg)
-
 
 ![natgas](https://user-images.githubusercontent.com/125621763/231316909-98c2f376-76e5-4432-ade0-f734ce3de509.png)
 
@@ -108,7 +104,7 @@ NON RENEWABLE
 
 
 
-LOOKING INTO THE FUTURE
+Forcasting into the future:
 
 ![forcastrenew](https://user-images.githubusercontent.com/125621763/231317182-f17c5767-86eb-4f19-8e31-39348c52ecd2.jpg)
 
@@ -132,7 +128,7 @@ One of the conclusions we found that was unexpected was the use of Hydro decreas
 
 
 
-Summary and Conclusions
+Summary and Conclusions:
 
 -We were able to find results for the questions we asked and we saw that renewable energy use has increased over the last 6 years on average while on average nonrenewable energy has decreased
 
@@ -144,7 +140,7 @@ Summary and Conclusions
 
 
 
-Numerical Summary
+Numerical Summary:
 
 -Most of our data was collected in different quantity types, so for transparency we wanted to show all of our data in gigawatt hours which to us was easier to read than Trillion BTU’s. This was a conversion of 1 Trillion BTU’s is equivalent to 293.0710701 gigawatt hours
 
@@ -158,7 +154,7 @@ Numerical Summary
 
 
 
-What do our findings mean?
+What do our findings mean:
 
 -Colorado as a whole is starting to increase renewable energy use more and in correlation nonrenewable energy has started to decrease
 
